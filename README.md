@@ -1,5 +1,7 @@
 # Code for "A Classification of Small MSTD Sets in Arbitrary Fields"
 
+[![DOI](https://zenodo.org/badge/1328453190.svg)](https://doi.org/10.5281/zenodo.23668113)
+
 This repository contains the code accompanying the paper *A Classification of Small MSTD Sets in Arbitrary Fields* by Yorick Herrmann (arXiv:2608.22189). 
 
 A finite set *A* in an additive abelian group is called an MSTD set if *|A + A| > |A − A|*. The paper proves that no MSTD set of size five exists in any additive abelian group. The paper also uses computer programs to classify all MSTD sets of sizes six through nine in arbitrary fields, and determine the smallest MSTD multiplicative subgroups of *Z/pZ*.
